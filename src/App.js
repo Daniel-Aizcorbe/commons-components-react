@@ -9,11 +9,6 @@ function App() {
       <h1>
         COMPONENTES GENERICOS
       </h1>
-      <Contenedor>
-        <p>
-          
-        </p>
-      </Contenedor>
     </div>
   );
 }
